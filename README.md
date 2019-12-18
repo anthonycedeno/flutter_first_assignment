@@ -1,6 +1,7 @@
 # assigment_1
 
-A new Flutter project.
+A new Flutter project. 
+This is a very basic app to show different text every time an user tab the button.
 
 ## Getting Started
 
